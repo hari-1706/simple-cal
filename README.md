@@ -21,14 +21,18 @@ JavaScript - Logic for calculations
 📦 Installation & Usage:
 
 1️⃣ Clone the repository:
-git clone  https://github.com/vaishnavi-0311/calc.git
+git clone  https://github.com/hari-1706/simple-cal
 
 2️⃣ Navigate to the project folder:
-cd calc
+cd simple-cal
 
 3️⃣ Open index.html in a browser.
 
-📬 Contact
+📬 Contact :
+
 If you have any questions or feedback, feel free to connect:
+
+
 📧 Email: [shrihari062004@gmail.com]
+
 🔗 GitHub: [shrihari-1706]
